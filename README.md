@@ -31,29 +31,28 @@ Tipos também são separados em duas **clasificações**:
 
 Como dito no começo, todo **tipo** se difere com base na sua **categoria**, sendo essas as categorias:
 - **Título**
-Classificação: Especial
-Características: Único, Obrigatório em elementos, Opcional em itens
-O título é o único tipo especial, além de ser possível colocar um título em um item, também é possível colocar um título em um elemento, com seu estilo mudando dependendo do conteiner colocado.
+Classificação: Especial <br>
+Características: Único, Obrigatório em elementos, Opcional em itens <br>
+O título é o único tipo especial, além de ser possível colocar um título em um item, também é possível colocar um título em um elemento, com seu estilo mudando dependendo do conteiner colocado. <br>
 Seu objetivo é titular um conteiner e seu tamanho sempre deve ser maior que todos os tipos/itens dentro do conteiner.
 
 - **Subtítulo**
-Classificação: Normal
-Características: Opcional, Simples
-O subtítulo é um tipo normal que é geralmente utilizado para adicionar um contexto maior em um parágrafo ou frase.
-A sua fonte é acizentada e fina com a intenção de chamar o mínimo de atenção possível, assim permitindo adicionar mais contexto sem poluir o currículo.
+Classificação: Normal <br>
+Características: Opcional, Simples <br>
+O subtítulo é um tipo normal que é geralmente utilizado para adicionar um contexto maior em um parágrafo ou frase. <br>
+A sua fonte é acizentada e fina com a intenção de chamar o mínimo de atenção possível, assim permitindo adicionar mais contexto sem poluir o currículo. <br>
 É recomendado que seja utilizado em datas ou locais.
 
 - **Parágrafo**
-Classificação: Normal
-Características: Opcional, Simples, Lista
-O parágrafo é utilizado quando apenas uma frase não é o suficiente para descrever um determinado assunto.
-Parágrafos muito longos não são recomendados pois podem poluir seu currículo, tente ser objetivo ao usá-los.
-Por conterem muito texto, sua fonte é fina quando comparada aos outros tipos, assim um parágrafo também pode ser utilizado como uma frase que chama menos atenção.
+Classificação: Normal <br>
+Características: Opcional, Simples, Lista <br>
+O parágrafo é utilizado quando apenas uma frase não é o suficiente para descrever um determinado assunto. <br>
+Parágrafos muito longos não são recomendados pois podem poluir seu currículo, tente ser objetivo ao usá-los. <br>
+Por conterem muito texto, sua fonte é fina quando comparada aos outros tipos, assim um parágrafo também pode ser utilizado como uma frase que chama menos atenção. <br>
 
 
 - **Frase**
-Classificação: Normal
-Características: Opcional, Simples, Lista
-O tipo de texto mais básico, sua fonte é maior e mais grossa que a maoria dos tipos (com execeção do título), logo chama muito mais atenção, é bem versátil e ótima para criar listas ou até mesmo "pseudotítulos" dentro de um item.
-É recomendado que uma frase não passe de cinco palavras para não poluir o currículo com informação.
-
+Classificação: Normal <br>
+Características: Opcional, Simples, Lista <br>
+O tipo de texto mais básico, sua fonte é maior e mais grossa que a maoria dos tipos (com execeção do título), logo chama muito mais atenção, é bem versátil e ótima para criar listas ou até mesmo "pseudotítulos" dentro de um item. <br>
+É recomendado que uma frase não passe de cinco palavras para não poluir o currículo com informação. <br>
